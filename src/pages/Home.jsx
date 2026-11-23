@@ -197,7 +197,7 @@ export default function Home() {
             <div>
               <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-50 border border-blue-100 mb-4">
                 <FaFacebook className="text-blue-600 text-sm" />
-                <span className="text-blue-600 text-xs font-semibold tracking-widest uppercase">Advetisements</span>
+                <span className="text-blue-600 text-xs font-semibold tracking-widest uppercase">Advertisements</span>
               </span>
               <h2 className="text-4xl lg:text-5xl font-bold text-stone-800 leading-tight">
                 Watch Our<br />
