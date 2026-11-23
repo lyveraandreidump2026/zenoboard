@@ -190,7 +190,7 @@ export default function Home() {
 
       </section>
 
-      {/* Reels Section */}
+      {/* Reels Section ..*/}
       <section className="py-28 bg-white overflow-hidden">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row items-start sm:items-end justify-between mb-12 gap-6">
